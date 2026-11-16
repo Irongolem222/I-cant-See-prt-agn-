@@ -53,3 +53,23 @@ body.lamp main{
 .hint{position:fixed;left:50%;bottom:1rem;translate:-50% 0;font:400 .55rem var(--px);color:var(--dim);pointer-events:none;display:none}
 body.lamp .hint{display:block}
 
+section{margin:0 0 5rem}
+h2{font:400 .95rem/1.6 var(--px);color:var(--moon);margin:0 0 1.2rem}
+p{margin:0 0 1rem;max-width:62ch}
+.log{list-style:none;margin:0;padding:0;border-left:2px solid #23263a}
+.log li{padding:0 0 1.4rem 1.2rem;position:relative}
+.log li::before{content:"";position:absolute;left:-6px;top:.6rem;width:10px;height:10px;background:var(--ember)}
+.log time{display:block;color:var(--dim);font-size:8rem}
+.log b{font-weight:500;color:var(--ink)}
+a{color:var(--ember)}
+.link{display:flex;flex-wrap:wrap;gap:1.4rem;font:400 .65rem var(--px)}
+footer{text-align:center;font:400 .7rem var(--px);color:var(--dim);padding:0 1rem 3rem}
+
+
+@media (prefers-reduced-motion:reduce){
+    .f,.hero-text,.scroll{animation-duration:0s!important;animation-delay:0s!important;opacity:1}
+    .f{display:none}
+    .f:last-of-type{display:block}
+    .scroll{animation:none}
+
+}
