@@ -1,50 +1,41 @@
-# 3:00 AM — A Pixel Art Portfolio
+# i cant see
 
-An interactive portfolio built around a late-night exploration theme. It showcases my projects, contributions, and interests through custom pixel art, animated scenes, and interactive elements.
+My portfolio website for the Hack Club 3 AM weekend challenge.
 
-## What's Inside?
+It starts with a small animated scene from my game. Then a little slime falls down the page as you scroll, and stops in the gaps between my sections.
 
-1. **Animated Opening** — A sequence of 10 pixel-art scenes that introduces the portfolio.
-2. **Interactive Flashlight** — A pointer-controlled spotlight effect that reveals content as visitors explore the page.
-3. **The Falling Slime** — An animated character that moves through the different sections of the portfolio.
-4. **Project Log** — A collection of selected projects, contributions, and personal achievements.
-5. **The Ending** — An eleventh scene that concludes the experience.
+**Live website:** [https://irongolem222.github.io/I-cant-See-prt-agn-/]
 
-<img width="1360" height="768" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/d85ffd28-e594-4d99-abd6-c9ac19be2f0f" />
+## Screenshots
 
-<img width="1360" height="768" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/892b4cb1-1ff3-4ded-9f1d-284fe8a20eec" />
+<img width="1360" height="768" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/8cd4d1b4-e771-4c78-8e18-965d38b26422" />
 
+<img width="1360" height="768" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/796ef849-9f16-40cd-a23c-bd7f93a60d88" />
 
-## How It Works
-
-- **Scene Animation:** Multiple images are layered and animated using CSS to create the opening sequence.
-- **Flashlight Effect:** JavaScript tracks pointer movement and updates CSS variables to control the spotlight effect.
-- **Character Movement:** JavaScript calculates the character's position as the visitor scrolls through the page.
-- **Sprite Animation:** Multiple sprite images are cycled to animate the character.
-- **Landing Animation:** A CSS animation creates a squash effect when the character reaches the bottom of the page.
-- **Responsive Behavior:** The character's position and dimensions are recalculated when the screen size changes.
-- **Reduced Motion:** The website includes support for users who prefer reduced animations.
+<img width="1360" height="768" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/8d06e6ee-6455-4749-aa23-b1f0d4e824f2" />
 
 
-<img width="1360" height="768" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/01520100-f65d-4f9e-b556-b5d2eaa6e19a" />
+## What it does
 
+- Plays an opening animation with my own pixel art
+- A slime falls through the page as you scroll and lands between sections
+- Your mouse works like a flashlight in the dark (the headlamp)
+- Shows my projects: Blounce, Survive stickers, Receipt challenge, Repossessed and more
+- The last scene of the opening is at the bottom of the page
 
-## Built With
+## How to run it
 
-- HTML
-- CSS
-- Vanilla JavaScript
-- Custom pixel art assets
-- Press Start 2P and IBM Plex Mono fonts
+just use :https://irongolem222.github.io/I-cant-See-prt-agn-/ this link to run the website ;
 
-## Check It Out
+## What's inside
 
-Explore the portfolio, follow the character through the different sections, and take a look at the projects featured along the way.
+- `index.html` is the page and the text
+- `style.css` is the look and the animations
+- `script.js` makes the slime fall and the flashlight follow the mouse
+- `img` is all my pixel art (the scenes and the slime)
 
-**Live Website:** [Add your GitHub Pages URL here]
+## Made by
 
-## Made By
-
-Created by **Pradnesh**.
+- **Pradnesh**,blob
 
 - GitHub: [https://github.com/Irongolem222](https://github.com/Irongolem222)
