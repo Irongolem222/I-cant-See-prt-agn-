@@ -1,8 +1,8 @@
 # i cant see
 
-My portfolio website for the Hack Club 3 AM weekend challenge.
+My portfolio website which is certainly dark themed .
 
-It starts with a small animated scene from my game. Then a little slime falls down the page as you scroll, and stops in the gaps between my sections.
+when u open the website it immediatly plays a animation of a little slime falling deep in well as you scroll, and stops in the gaps between my sections.
 
 **Live website:** [https://irongolem222.github.io/I-cant-See-prt-agn-/]
 
@@ -17,11 +17,11 @@ It starts with a small animated scene from my game. Then a little slime falls do
 
 ## What it does
 
-- Plays an opening animation with my own pixel art
-- A slime falls through the page as you scroll and lands between sections
+- after opening the website it plays a pixelated animation
+- A slime falls through the page and it is with u through every section it falls as u scroll down
 - Your mouse works like a flashlight in the dark (the headlamp)
 - Shows my projects: Blounce, Survive stickers, Receipt challenge, Repossessed and more
-- The last scene of the opening is at the bottom of the page
+- at the end the slime stops falling and it is the end of the website however if u scroll up again it comes up with u ,.
 
 ## How to run it
 
